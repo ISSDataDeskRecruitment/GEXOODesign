@@ -16,10 +16,10 @@ Using the _GEXOODesign_ project, implement GEXModel and any other needed classes
 
 # Questions
 
-Direct questions to **ISSDataDeskRecruitment@issgovernance.com**
+Direct questions to **ISS_DataDesk_Recruitment@issgovernance.com**
 
 # Submission
 
 1. Fork this repository to make your own repository 
 2. Work against your own repository
-3. Add this email id: **ISSDataDeskRecruitment@issgovernance.com** as collaborator to your repository
+3. Add this email id: **ISS_DataDesk_Recruitment@issgovernance.com** as collaborator to your repository
